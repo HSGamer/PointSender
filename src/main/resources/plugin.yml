@@ -1,0 +1,5 @@
+name: PointSender
+version: '${project.version}'
+main: me.hsgamer.pointsender.PointSender
+api-version: 1.13
+authors: [ HSGamer ]
